@@ -18,7 +18,7 @@ Files are organized by the relevant lecture or problem set to track progress thr
 | Module | Status |
 | :--- | :--- |
 | **Lecture 1: Introduction** | ✅ Complete |
-| **Lecture 2: Strings, I/O, Branching** | In Progress |
+| **Lecture 2: Strings, I/O, Branching** | ✅ Complete |
 | **Lecture 3: Iteration** | To Do |
 | **Lecture 4: Loops over Strings, Guess-and-Check, Binary** | To Do |
 | **Lecture 5: Floats and Approximation Methods** | To Do |
