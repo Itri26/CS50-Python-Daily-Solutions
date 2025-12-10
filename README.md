@@ -20,7 +20,7 @@ Files are organized by the relevant lecture or problem set to track progress thr
 | **Lecture 1: Introduction** | ✅ Complete |
 | **Lecture 2: Strings, I/O, Branching** | ✅ Complete |
 | **Lecture 3: Iteration** | ✅ Complete |
-| **Lecture 4: Loops over Strings, Guess-and-Check, Binary** | To Do |
+| **Lecture 4: Loops over Strings, Guess-and-Check, Binary** | In Progress |
 | **Lecture 5: Floats and Approximation Methods** | To Do |
 | **Lecture 6: Bisection Search** | To Do |
 | **Lecture 7: Decomposition, Abstraction, Functions** | To Do |
