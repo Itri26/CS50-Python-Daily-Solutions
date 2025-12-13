@@ -21,7 +21,7 @@ Files are organized by the relevant lecture or problem set to track progress thr
 | **Lecture 2: Strings, I/O, Branching** | ✅ Complete |
 | **Lecture 3: Iteration** | ✅ Complete |
 | **Lecture 4: Loops over Strings, Guess-and-Check, Binary** | ✅ Complete |
-| **Lecture 5: Floats and Approximation Methods** | To Do |
+| **Lecture 5: Floats and Approximation Methods** | In Progress |
 | **Lecture 6: Bisection Search** | To Do |
 | **Lecture 7: Decomposition, Abstraction, Functions** | To Do |
 | **Lecture 8: Functions as Objects** | To Do |
